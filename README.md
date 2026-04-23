@@ -1,5 +1,5 @@
 # 🚗 Data Warehouse – Large Cars Dataset
-**UTS Business Intelligence | Kelompok 15**
+**UTS Business Intelligence | Kelompok 15 | Kelas C Sistem Informasi 2024**
 
 ---
 
